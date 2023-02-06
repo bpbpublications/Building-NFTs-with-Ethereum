@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Warrior",
+      "value": "Samurai"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Green-red"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Sword"
+    }
+  ],
+  "description": "A fierce Japanese Samurai warrior",
+  "image": "ipfs://QmNiMUmTo5KqwqcEkukBxGJW6WpEFTL9ZR7odpvabhciv9",
+  "name": "Ramses"
+}
